@@ -5,3 +5,5 @@ pear
 green bean
 broomstick handle
 hockeystick handle
+brush handle
+spatula handle
